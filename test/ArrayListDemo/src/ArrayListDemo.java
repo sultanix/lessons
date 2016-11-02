@@ -6,7 +6,7 @@ public static void main(String args[]){
 	list.add("A");
 	list.add("Â");
 	list.add("Ñ");
-	list.add("Â");
+	list.add("Âg");
 	list.add("E");
 	list.add("F");
 	list.add(1,"A2");
